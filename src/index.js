@@ -6,7 +6,7 @@ import App from './App';
 
 ReactDOM.render(
   <React.StrictMode>
-    <BrowserRouter basename=''>
+    <BrowserRouter basename='/React-Food-Recipes'>
       <App />
     </BrowserRouter>
   </React.StrictMode>,
